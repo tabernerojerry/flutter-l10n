@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'You tapped the button $_counter times',
+              AppLocalizations.of(context)!.tapCountMessage(_counter),
               style: const TextStyle(fontSize: 26.0),
             ),
           ],

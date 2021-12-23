@@ -8,5 +8,11 @@
     "placeholders": {
       "name": {}
     }
+  },
+  "tapCountMessage": "{count, plural, =0{You haven't yet tapped the button} =1{You tapped the button {count} time} other{You tapped the button {count} times} }",
+  "@tapCountMessage": {
+    "placeholders": {
+      "count": {}
+    }
   }
 }
