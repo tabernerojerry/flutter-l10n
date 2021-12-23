@@ -1,0 +1,12 @@
+{
+  "appTitle": "Multilingual app",
+  "@appTitle": {
+    "description": "The title of the app"
+  },
+  "homePageTitle": "Welcome home, {name}!",
+  "@homePageTitle": {
+    "placeholders": {
+      "name": {}
+    }
+  }
+}
