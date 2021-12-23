@@ -1,0 +1,15 @@
+{
+  "appTitle": "Multilinggwal na app",
+  "homePageTitle": "Maligayang pagbabalik, {name}!",
+  "@homePageTitle": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "tapCountMessage": "{count, plural, =0{Hindi mo pa nata-tap ang pindutan} =1{Na-tap mo ang pindutan ng {count} ulit} other{Na-tap mo ang pindutan ng {count} beses} }",
+  "@tapCountMessage": {
+    "placeholders": {
+      "count": {}
+    }
+  }
+}
