@@ -1,4 +1,4 @@
-# l10n_example
+# flutter l10n
 
 A new Flutter project.
 
